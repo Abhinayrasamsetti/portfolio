@@ -4,8 +4,9 @@ const LINKS = [
   { n: '01', label: 'about', href: '#about' },
   { n: '02', label: 'experience', href: '#experience' },
   { n: '03', label: 'skills', href: '#skills' },
-  { n: '04', label: 'certifications', href: '#certifications' },
-  { n: '05', label: 'contact', href: '#contact' },
+  { n: '04', label: 'projects', href: '#projects' },
+  { n: '05', label: 'credentials', href: '#certifications' },
+  { n: '06', label: 'contact', href: '#contact' },
 ]
 
 export default function Nav() {

@@ -1,43 +1,35 @@
 const CATEGORIES = [
   {
-    title: 'infrastructure & os',
-    tags: ['Windows Server', 'Linux (RHEL/Ubuntu)', 'Active Directory', 'GPO', 'Windows Registry', 'Nutanix', 'OpenStack'],
+    title: 'servicenow & itsm',
+    tags: ['ServiceNow Administration', 'ITSM', 'ITOM', 'Service Catalog', 'Flow Designer', 'Business Rules', 'Client Scripts', 'ACLs', 'Freshservice'],
   },
   {
-    title: 'devops & automation',
-    tags: ['Ansible', 'Docker', 'Kubernetes', 'Git', 'GitHub', 'Selenium', 'Python', 'PowerShell', 'Bash'],
+    title: 'aiops & agentic ai',
+    tags: ['AIOps Architecture', 'Agentic AI', 'Multi-Agent Systems', 'Agent Orchestration', 'RAG', 'Vector Databases', 'Incident Triage'],
   },
   {
-    title: 'cloud platforms',
-    tags: ['Microsoft Azure', 'Google Cloud Platform'],
+    title: 'azure & cloud',
+    tags: ['Azure VM', 'AKS', 'Azure Storage', 'Key Vault', 'API Management', 'Application Gateway', 'Azure Monitor', 'Log Analytics', 'Azure AD', 'Azure DevOps'],
   },
   {
-    title: 'monitoring & observability',
-    tags: ['Zabbix', 'ManageEngine'],
+    title: 'containers & automation',
+    tags: ['Docker', 'Docker Compose', 'Kubernetes', 'Helm', 'Azure Container Registry', 'Terraform', 'Ansible', 'PowerShell', 'Python', 'Bash', 'Selenium'],
   },
   {
-    title: 'security & compliance',
-    tags: ['Qualys', 'CrowdStrike', 'Checkpoint', 'SCCM', 'BigFix', 'Cisco Umbrella Proxy', 'Keycloak'],
+    title: 'integration & security',
+    tags: ['REST APIs', 'Custom REST APIs', 'OAuth 2.0', 'MID Server', 'Qualys', 'BigFix', 'CrowdStrike', 'Check Point', 'HashiCorp Vault', 'Keycloak'],
   },
   {
-    title: 'backup & disaster recovery',
-    tags: ['Veeam', 'Acronis'],
-  },
-  {
-    title: 'networking',
-    tags: ['Firewalls', 'Switches', 'Routers', 'HA Proxy'],
-  },
-  {
-    title: 'itsm & servicenow',
-    tags: ['ServiceNow Admin', 'Incident Mgmt', 'Asset Mgmt', 'FreshService'],
+    title: 'infrastructure & monitoring',
+    tags: ['Nutanix', 'Windows Server', 'Linux', 'OpenStack', 'Active Directory', 'Zabbix', 'ManageEngine', 'OpenSearch'],
   },
   {
     title: 'databases',
-    tags: ['MySQL', 'PostgreSQL', 'OpenSearch'],
+    tags: ['MySQL', 'PostgreSQL'],
   },
   {
     title: 'architecture & solutioning',
-    tags: ['Solution Design', 'Enterprise Architecture', 'API Integration', 'Requirement Gathering', 'Stakeholder Mgmt'],
+    tags: ['Enterprise Architecture', 'Solution Design', 'Requirements Gathering', 'Architecture Workshops', 'Stakeholder Management', 'Production Deployment'],
   },
 ]
 

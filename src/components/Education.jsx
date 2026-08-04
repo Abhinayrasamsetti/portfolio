@@ -15,7 +15,7 @@ export default function Education() {
   return (
     <section id="education">
       <div className="wrap">
-        <div className="eyebrow">05 / education</div>
+        <div className="eyebrow">06 / education</div>
         <h2 className="section-title">Training log</h2>
 
         <div>

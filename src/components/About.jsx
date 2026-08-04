@@ -8,23 +8,22 @@ export default function About() {
           <div className="skill-panel">
             <div className="skill-panel-title">// scope</div>
             <p style={{ color: 'var(--mist)', lineHeight: 1.7, fontSize: 15, margin: 0 }}>
-              End-to-end DevOps operations across hybrid Windows/Linux environments —
-              L1 through L3 — covering monitoring, networking, compliance, containerization,
-              and scripting.
+              Customer-facing technical ownership from discovery and architecture workshops
+              through deployment and production support across enterprise environments.
             </p>
           </div>
           <div className="skill-panel">
             <div className="skill-panel-title">// architecture</div>
             <p style={{ color: 'var(--mist)', lineHeight: 1.7, fontSize: 15, margin: 0 }}>
-              Design enterprise-grade application architectures integrated with ServiceNow,
-              Active Directory, and cloud platforms — Azure and GCP — for global clients.
+              Architecture for multi-agent AIOps platforms using agent orchestration, RAG,
+              vector databases, ServiceNow, Azure, APIs, and container platforms.
             </p>
           </div>
           <div className="skill-panel">
             <div className="skill-panel-title">// track record</div>
             <p style={{ color: 'var(--mist)', lineHeight: 1.7, fontSize: 15, margin: 0 }}>
-              Maintained 99.9% SLA compliance over 2+ years and led design and deployment
-              of a critical application solution for a global manufacturing leader.
+              Independently deliver 20–30 ServiceNow requirements monthly for 900+ users,
+              alongside delivery for 5+ enterprise client engagements.
             </p>
           </div>
         </div>

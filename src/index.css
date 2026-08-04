@@ -496,6 +496,17 @@ section + section {
   position: relative;
 }
 
+.project-card {
+  display: block;
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.project-card:hover {
+  border-color: var(--signal);
+  transform: translateY(-2px);
+}
+
 .card-icon {
   color: var(--signal);
   font-family: var(--font-mono);

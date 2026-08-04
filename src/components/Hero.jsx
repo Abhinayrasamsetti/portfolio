@@ -35,7 +35,7 @@ export default function Hero() {
           <span>LOCATION: Bengaluru, IN</span>
         </div>
 
-        <div className="eyebrow">implementation solution architect</div>
+        <div className="eyebrow">implementation architect · devops engineer</div>
 
         <h1 className="hero-name">
           Jagadeeswar Abhinay<br /><span className="accent">Rasamsetti</span>
@@ -43,35 +43,34 @@ export default function Hero() {
 
         <p className="hero-role">
           <span className="prompt">$</span>
-          whoami --role="Infrastructure & Solutions" --focus="DevOps, Cloud, Enterprise Architecture"
+          whoami --role="Implementation Architect" --focus="AIOps, ServiceNow, Cloud & DevOps"
         </p>
 
         <p className="hero-summary">
-          Infrastructure & Solutions professional with 2.5+ years at LTIMindtree, progressing
-          from Automation Infrastructure Engineer to Implementation Solution Architect. I design
-          enterprise-grade application architectures integrated with ServiceNow, Active Directory,
-          and cloud platforms — and I've kept the lights on across hybrid Windows/Linux environments
-          at 99.9% SLA the whole way.
+          Implementation Architect and DevOps Engineer with 2.5+ years at LTIMindtree. I lead
+          enterprise technical delivery across Azure, ServiceNow, Active Directory, AKS, and
+          automation platforms — including AIOps solutions that reduce manual engineering effort
+          through guided, AI-assisted resolution workflows.
         </p>
 
         <div className="hero-actions">
           <a className="btn btn-primary" href="mailto:rasamsettiabhinay125@gmail.com">Get in touch →</a>
           <a className="btn btn-ghost" href="https://github.com/Abhinayrasamsetti" target="_blank" rel="noreferrer">GitHub</a>
-          <a className="btn btn-ghost" href="http://www.linkedin.com/in/abhinayrasamsetti" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a className="btn btn-ghost" href="https://www.linkedin.com/in/abhinayrasamsetti" target="_blank" rel="noreferrer">LinkedIn</a>
         </div>
 
         <div className="metric-row">
           <div className="metric">
             <div className="metric-value">99.9%</div>
-            <div className="metric-label">SLA compliance / 2+ yrs</div>
+            <div className="metric-label">SLA across 950+ servers</div>
           </div>
           <div className="metric">
-            <div className="metric-value">3</div>
-            <div className="metric-label">Roles, one company</div>
+            <div className="metric-value">900+</div>
+            <div className="metric-label">ServiceNow users supported</div>
           </div>
           <div className="metric">
-            <div className="metric-value">20+</div>
-            <div className="metric-label">Tools & platforms</div>
+            <div className="metric-value">60%+</div>
+            <div className="metric-label">Manual effort reduced</div>
           </div>
           <div className="metric">
             <div className="metric-value">4</div>
