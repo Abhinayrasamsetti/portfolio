@@ -6,7 +6,7 @@ export default function Footer() {
         <h2 className="footer-title">Let's build something<br />that stays up.</h2>
         <p className="footer-sub">
           Open to implementation architecture, AIOps, ServiceNow, DevOps, and infrastructure roles.
-          Based in Bengaluru, India — reachable anywhere.
+          Based in Hyderabad, India — reachable anywhere.
         </p>
         <div className="footer-links">
           <a className="btn btn-primary" href="mailto:rasamsettiabhinay125@gmail.com">rasamsettiabhinay125@gmail.com</a>
