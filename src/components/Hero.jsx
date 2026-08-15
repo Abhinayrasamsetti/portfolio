@@ -32,7 +32,7 @@ export default function Hero() {
           <span className="sep">|</span>
           <span>SLA: 99.9%</span>
           <span className="sep">|</span>
-          <span>LOCATION: Bengaluru, IN</span>
+          <span>LOCATION: Hyderabad, IN</span>
         </div>
 
         <div className="eyebrow">implementation architect · devops engineer</div>
