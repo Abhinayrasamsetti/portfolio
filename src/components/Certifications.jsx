@@ -31,6 +31,7 @@ const ACCOMPLISHMENTS = [
   { title: '900+ ServiceNow Users', desc: 'Own platform configuration, enhancements, integrations, and support for a large internal ServiceNow instance.' },
   { title: '99.9% SLA Across 950+ Servers', desc: 'Maintained SLA for hybrid infrastructure that supports approximately 2,000 users.' },
   { title: 'Multiple Spotlight Awards', desc: 'Recognized for technical ownership, architecture quality, and successful implementation delivery.' },
+  { title: 'Multiple Customer Appreciations', desc: 'Recognized by customer stakeholders for technical ownership and delivery outcomes.' },
   { title: '100-Day LinkedIn Networking Series', desc: 'Published a 100-day series building professional network and technical brand visibility.' },
 ]
 
