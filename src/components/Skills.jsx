@@ -5,23 +5,23 @@ const CATEGORIES = [
   },
   {
     title: 'aiops & agentic ai',
-    tags: ['AIOps Architecture', 'Agentic AI', 'Multi-Agent Systems', 'Agent Orchestration', 'RAG', 'Vector Databases', 'Incident Triage'],
+    tags: ['Agentic AI', 'Multi-Agent Workflows', 'Agent Orchestration', 'AIOps', 'Incident Intelligence', 'OpenSearch RAG', 'CMDB Alert Correlation', 'Human-in-the-Loop Automation'],
   },
   {
-    title: 'azure & cloud',
-    tags: ['Azure VM', 'AKS', 'Azure Storage', 'Key Vault', 'API Management', 'Application Gateway', 'Azure Monitor', 'Log Analytics', 'Azure AD', 'Azure DevOps'],
+    title: 'cloud & container platforms',
+    tags: ['Microsoft Azure', 'AWS', 'Google Cloud', 'AKS', 'Kubernetes', 'Docker', 'Docker Compose', 'Helm', 'Azure Container Registry', 'API Management', 'Key Vault', 'Azure DevOps'],
   },
   {
-    title: 'containers & automation',
-    tags: ['Docker', 'Docker Compose', 'Kubernetes', 'Helm', 'Azure Container Registry', 'Terraform', 'Ansible', 'PowerShell', 'Python', 'Bash', 'Selenium'],
+    title: 'automation & devops',
+    tags: ['Python', 'PowerShell', 'Bash', 'Ansible', 'Terraform', 'Selenium', 'CI/CD', 'Git', 'GitHub', 'Ansible AWX', 'Infrastructure Automation'],
   },
   {
     title: 'integration & security',
-    tags: ['REST APIs', 'Custom REST APIs', 'OAuth 2.0', 'MID Server', 'Qualys', 'BigFix', 'CrowdStrike', 'Check Point', 'HashiCorp Vault', 'Keycloak'],
+    tags: ['REST APIs', 'MCP Servers', 'MCP Integration Patterns', 'OAuth 2.0', 'Custom REST APIs', 'MID Server', 'Qualys', 'BigFix', 'CrowdStrike', 'Check Point', 'HashiCorp Vault', 'Keycloak'],
   },
   {
     title: 'infrastructure & monitoring',
-    tags: ['Nutanix', 'Windows Server', 'Linux', 'OpenStack', 'Active Directory', 'Zabbix', 'ManageEngine', 'OpenSearch'],
+    tags: ['Nutanix', 'Windows Server', 'Linux', 'OpenStack', 'Active Directory', 'Zabbix', 'ManageEngine', 'OpenSearch', 'Patch Management', 'OS Hardening', 'Backup & Recovery'],
   },
   {
     title: 'databases',
@@ -29,7 +29,7 @@ const CATEGORIES = [
   },
   {
     title: 'architecture & solutioning',
-    tags: ['Enterprise Architecture', 'Solution Design', 'Requirements Gathering', 'Architecture Workshops', 'Stakeholder Management', 'Production Deployment'],
+    tags: ['Implementation Architecture', 'Operational Landscape Assessment', 'Solution Design', 'Workflow Design', 'ARB / SARB Reviews', 'Customer Enablement', 'Support Handover'],
   },
 ]
 

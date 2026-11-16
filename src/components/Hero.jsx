@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-const CAREER_START = new Date('2023-09-01T00:00:00')
+const CAREER_START = new Date('2023-09-27T00:00:00')
 
 function formatUptime(ms) {
   const totalSeconds = Math.floor(ms / 1000)
@@ -35,7 +35,7 @@ export default function Hero() {
           <span>LOCATION: Hyderabad, IN</span>
         </div>
 
-        <div className="eyebrow">implementation architect · devops engineer</div>
+        <div className="eyebrow">implementation architect · agentic aiops · platform engineering</div>
 
         <h1 className="hero-name">
           Jagadeeswar Abhinay<br /><span className="accent">Rasamsetti</span>
@@ -43,14 +43,14 @@ export default function Hero() {
 
         <p className="hero-role">
           <span className="prompt">$</span>
-          whoami --role="Implementation Architect" --focus="AIOps, ServiceNow, Cloud & DevOps"
+          whoami --role="Implementation Architect" --focus="Agentic AIOps, Cloud & Platform Engineering"
         </p>
 
         <p className="hero-summary">
-          Implementation Architect and DevOps Engineer with 2.5+ years at LTIMindtree. I lead
-          enterprise technical delivery across Azure, ServiceNow, Active Directory, AKS, and
-          automation platforms — including AIOps solutions that reduce manual engineering effort
-          through guided, AI-assisted resolution workflows.
+          Implementation Architect with 3 years of experience delivering customer-facing enterprise
+          solutions across Agentic AIOps, cloud and hybrid infrastructure, ITSM, and automation.
+          I take delivery from discovery through architecture, integration, implementation,
+          deployment coordination, and customer handover.
         </p>
 
         <div className="hero-actions">
@@ -62,18 +62,18 @@ export default function Hero() {
         <div className="metric-row">
           <div className="metric">
             <div className="metric-value">99.9%</div>
-            <div className="metric-label">SLA across 950+ servers</div>
+            <div className="metric-label">Infrastructure SLA / 950+ servers</div>
           </div>
           <div className="metric">
-            <div className="metric-value">900+</div>
-            <div className="metric-label">ServiceNow users supported</div>
+            <div className="metric-value">5+</div>
+            <div className="metric-label">Enterprise engagements</div>
           </div>
           <div className="metric">
             <div className="metric-value">60%+</div>
-            <div className="metric-label">Manual effort reduced</div>
+            <div className="metric-label">Manual effort reduction</div>
           </div>
           <div className="metric">
-            <div className="metric-value">4</div>
+            <div className="metric-value">5</div>
             <div className="metric-label">Certifications</div>
           </div>
         </div>

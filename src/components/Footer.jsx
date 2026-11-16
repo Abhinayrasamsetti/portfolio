@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="eyebrow" style={{ justifyContent: 'center' }}>07 / contact</div>
         <h2 className="footer-title">Let's build something<br />that stays up.</h2>
         <p className="footer-sub">
-          Open to implementation architecture, AIOps, ServiceNow, DevOps, and infrastructure roles.
+          Implementation architecture, Agentic AIOps, cloud platforms, ServiceNow, and DevOps.
           Based in Hyderabad, India — reachable anywhere.
         </p>
         <div className="footer-links">

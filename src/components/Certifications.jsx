@@ -19,13 +19,18 @@ const CERTS = [
     org: 'LTIMindtree',
     desc: 'Demonstrates working knowledge of GenAI concepts and practical enterprise applications.',
   },
+  {
+    title: 'Claude 101 Completion Certification',
+    org: 'Anthropic',
+    desc: 'Completed foundational training on practical AI concepts and responsible application.',
+  },
 ]
 
 const ACCOMPLISHMENTS = [
-  { title: '60%+ Manual Effort Reduction', desc: 'Drove adoption of AIOps resolution workflows that reduce manual engineering effort and improve MTTR.' },
+  { title: '60%+ Manual Effort Reduction', desc: 'Contributed to AI-assisted operational intelligence and workflow automation that reduced manual engineering effort.' },
   { title: '900+ ServiceNow Users', desc: 'Own platform configuration, enhancements, integrations, and support for a large internal ServiceNow instance.' },
   { title: '99.9% SLA Across 950+ Servers', desc: 'Maintained SLA for hybrid infrastructure that supports approximately 2,000 users.' },
-  { title: 'Spotlight Award & Client Appreciation', desc: 'Recognized for ownership, architecture quality, and successful enterprise implementation delivery.' },
+  { title: 'Multiple Spotlight Awards', desc: 'Recognized for technical ownership, architecture quality, and successful implementation delivery.' },
   { title: '100-Day LinkedIn Networking Series', desc: 'Published a 100-day series building professional network and technical brand visibility.' },
 ]
 

@@ -1,14 +1,14 @@
 const PROJECTS = [
   {
-    title: 'Enterprise DevOps Platform',
-    type: 'GitHub portfolio repository',
-    desc: 'A portfolio of enterprise automation, Kubernetes, Terraform, cloud architecture, and platform engineering solutions.',
-    href: 'https://github.com/Abhinayrasamsetti',
+    title: 'IRUN · Modular Agentic AIOps Platform',
+    type: 'Selected platform experience',
+    desc: 'Customer-specific AIOps solution patterns spanning MCP and REST integrations, multi-agent workflows, OpenSearch-backed RAG, CMDB alert correlation, and approval-controlled automation.',
+    href: 'https://github.com/Abhinayrasamsetti/portfolio',
   },
   {
-    title: '100-Day LinkedIn Networking Series',
-    type: 'Professional brand initiative',
-    desc: 'A 100-day publishing series focused on building professional network reach and technical brand visibility.',
+    title: 'BlueVerse Tech · Enterprise Agentic AIOps',
+    type: 'Selected platform experience',
+    desc: 'AI-assisted operations for incident triage, alert analysis, ticket summarization, guided troubleshooting, Knowledge Fabric, knowledge graphs, and topology-aware insights.',
     href: 'https://www.linkedin.com/in/abhinayrasamsetti',
   },
 ]
