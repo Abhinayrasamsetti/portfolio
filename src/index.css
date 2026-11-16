@@ -536,6 +536,29 @@ section + section {
   margin: 0;
 }
 
+.project-detail-list {
+  list-style: none;
+  margin: 16px 0 0;
+  padding: 0;
+}
+
+.project-detail-list li {
+  position: relative;
+  margin-top: 8px;
+  padding-left: 15px;
+  color: var(--mist);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.project-detail-list li::before {
+  content: '›';
+  position: absolute;
+  left: 0;
+  color: var(--signal);
+  font-family: var(--font-mono);
+}
+
 /* ---------- Education ---------- */
 
 .edu-row {
